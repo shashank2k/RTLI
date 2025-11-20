@@ -1,5 +1,3 @@
-A production-grade, event-driven “Real-Time Log Ingestor” built with .NET 8, RabbitMQ, Postgres, Ocelot, and Redis. This README covers architecture, setup, run, testing, and operations, including DLQ handling and a stats API.
-
 Overview
 Ingestor API: Minimal API exposing POST /log to validate JSON and enqueue to RabbitMQ with durable, confirmed publishes, fronted by an API Gateway.​
 
