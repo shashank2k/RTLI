@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WDzv5rQB6bfK3hGCjyAUkdDToY51nxXciVrfRdVBd1g=",
+  "Source": "LogIngestor",
+  "BasePath": "_content/LogIngestor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
